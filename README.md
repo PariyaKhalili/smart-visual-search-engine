@@ -24,7 +24,7 @@ It uses CIFAR-10, a small image dataset, and FAISS library for efficient similar
 7. The app UI changes by choosing either CLIP or ViT 
 
 ## 🧠 Models Used
-Model	Usage	Source
+Model	versions used in this project:
 * CLIP (ViT-B/32)	Text-to-image embedding	OpenAI CLIP
 * ViT (vit_b_16)	Pure image embeddings	torchvision.models
 
