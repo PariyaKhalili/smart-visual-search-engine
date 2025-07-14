@@ -29,6 +29,4 @@ Model	versions used in this project:
 * ViT (vit_b_16)	Pure image embeddings	torchvision.models
 
 ## 🎥 Demo
-Click the link below to watch the demo:
-
-[Demo](assets/demo.mp4)
+Click [here](assets/demo.mp4) to watch the demo.
