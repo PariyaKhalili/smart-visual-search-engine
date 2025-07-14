@@ -6,7 +6,7 @@ This project implements a smart visual search engine for both prompt and image i
 * ViT (Vision Transformer by torchvision) for image-to-image search
 
 It uses CIFAR-10, a small image dataset, and FAISS library for efficient similarity search. A modern Gradio web interface is included for interaction:
-![Example](https://github.com/PariyaKhalili/smart-visual-search-enginr/blob/main/assets/app_ui.jpg)
+![Example](https://github.com/PariyaKhalili/smart-visual-search-engine/blob/main/assets/app_ui.jpg)
 
 ✨ Features
 1. Text-based search using CLIP (e.g., "a red airplane")
