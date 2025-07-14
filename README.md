@@ -8,7 +8,7 @@ This project implements a smart visual search engine for both prompt and image i
 It uses CIFAR-10, a small image dataset, and FAISS library for efficient similarity search. A modern Gradio web interface is included for interaction:
 ![Example](https://github.com/PariyaKhalili/smart-visual-search-engine/blob/main/assets/app_ui.jpg)
 
-✨ Features
+## ✨ Features
 1. Text-based search using CLIP (e.g., "a red airplane")
 
 2. Image-based search using ViT (upload a query image)
@@ -23,11 +23,12 @@ It uses CIFAR-10, a small image dataset, and FAISS library for efficient similar
 
 7. The app UI changes by choosing either CLIP or ViT 
 
-🧠 Models Used
+## 🧠 Models Used
 Model	Usage	Source
-CLIP (ViT-B/32)	Text-to-image embedding	OpenAI CLIP
-ViT (vit_b_16)	Pure image embeddings	torchvision.models
+* CLIP (ViT-B/32)	Text-to-image embedding	OpenAI CLIP
+* ViT (vit_b_16)	Pure image embeddings	torchvision.models
 
 ## 🎥 Demo
 Click the link below to watch the demo:
+
 [Demo](assets/demo.mp4)
